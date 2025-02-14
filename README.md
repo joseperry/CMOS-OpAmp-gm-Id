@@ -38,5 +38,5 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 - IEEE papers on **g<sub>m</sub>/I<sub>d</sub> methodology**  
 
 <p align="center">
-  <img src="https://github.com/bdobyns/emojipacks/raw/animals/assets/platypus.png" alt="platypus">
+  <img src="https://static.wikia.nocookie.net/phineasandferb/images/3/39/Agent_P.png/revision/latest?cb=20110803145338" alt="platypus">
 </p>
