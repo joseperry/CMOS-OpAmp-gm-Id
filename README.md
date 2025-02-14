@@ -1,14 +1,16 @@
 # Final Project - Two-Stage CMOS OpAmp Design with g<sub>m</sub>/I<sub>d</sub> methodology
 
+## Overview
+
+This project focuses on designing a two-stage CMOS operational amplifier (OpAmp) using the gm/Id methodology. The objective is to optimize power efficiency while achieving the required performance in terms of gain, bandwidth, phase margin, and slew rate.
+
+The process techonology used for this project is: 0.35&uo m CMOS C35
+
 ## Jury
 
 - President: [*to decide*](https://www.isel.pt/docentes/)
 - Examiner: [*to decide*](https://www.isel.pt/docentes/)
 - Advisor: [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)
-
-## Overview
-
-This project focuses on designing a two-stage CMOS operational amplifier (OpAmp) using the gm/Id methodology. The objective is to optimize power efficiency while achieving the required performance in terms of gain, bandwidth, phase margin, and slew rate.
 
 ## 🎯 Objectives  
 
