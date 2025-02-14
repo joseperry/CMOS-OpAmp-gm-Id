@@ -1,6 +1,10 @@
 # Final Project - Two-Stage CMOS OpAmp Design with g<sub>m</sub>/I<sub>d</sub> methodology
 
-Orienteer: Vitor Costa
+## Jury
+
+- President: [*to decide*](https://www.isel.pt/docentes/)
+- Examiner: [*to decide*](https://www.isel.pt/docentes/)
+- Advisor: [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)
 
 ## Overview
 
