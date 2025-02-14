@@ -1,16 +1,16 @@
-# Final Project - Two-Stage CMOS OpAmp Design with g<sub>m</sub>/I<sub>d</sub> methodology
+# Final Project - Two-Stage CMOS OpAmp Design with g<sub>m</sub>/I<sub>d</sub> methodology  
 
-## Overview
+## Overview  
 
-This project focuses on designing a two-stage CMOS operational amplifier (OpAmp) using the gm/Id methodology. The objective is to optimize power efficiency while achieving the required performance in terms of gain, bandwidth, phase margin, and slew rate.
+This project focuses on designing a two-stage CMOS operational amplifier (OpAmp) using the gm/Id methodology. The objective is to optimize power efficiency while achieving the required performance in terms of gain, bandwidth, phase margin, and slew rate.  
 
-The process techonology used for this project is: AMS 0.35&mu;m CMOS C35
+The process techonology used for this project is: AMS 0.35&mu;m CMOS C35  
 
-## Jury
+## Jury  
 
-- President: [*to decide*](https://www.isel.pt/docentes/)
-- Examiner: [*to decide*](https://www.isel.pt/docentes/)
-- Advisor: [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)
+- President: [*to decide*](https://www.isel.pt/docentes/)  
+- Examiner: [*to decide*](https://www.isel.pt/docentes/)  
+- Advisor: [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)  
 
 ## 🎯 Objectives  
 
@@ -22,14 +22,14 @@ The process techonology used for this project is: AMS 0.35&mu;m CMOS C35
 
 ## 🛠️ Tools & Software  
 
-- **Circuit Simulation:** Cadence Virtuoso, LTspice, or HSPICE
-- **Data Analysis & Scripting:** MATLAB
-- **Report & Documentation:** GitHub and Office
+- **Circuit Simulation:** Cadence Virtuoso, LTspice, or HSPICE  
+- **Data Analysis & Scripting:** MATLAB  
+- **Report & Documentation:** GitHub and Office  
 
 
-## 📄 References
+## 📄 References  
 
-- A. S. Sedra, K. C. Smith, *Microelectronics Circuits*, 8th International Edition
-- T. C. Carusone, D. Johns, K. Martin, *Analog Integrated Circuit Design*, 2nd Edition, Internacional Student Version
-- B. Razavi, *Design of Analog CMOS Integrated Circuits*, 2nd Edition
-- IEEE papers on **g<sub>m</sub>/I<sub>d</sub> methodology**
+- A. S. Sedra, K. C. Smith, *Microelectronics Circuits*, 8th International Edition  
+- T. C. Carusone, D. Johns, K. Martin, *Analog Integrated Circuit Design*, 2nd Edition, Internacional Student Version  
+- B. Razavi, *Design of Analog CMOS Integrated Circuits*, 2nd Edition  
+- IEEE papers on **g<sub>m</sub>/I<sub>d</sub> methodology**  
