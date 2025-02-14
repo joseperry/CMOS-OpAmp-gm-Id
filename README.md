@@ -36,3 +36,6 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 - T. C. Carusone, D. Johns, K. Martin, *Analog Integrated Circuit Design*, 2nd Edition, Internacional Student Version  
 - B. Razavi, *Design of Analog CMOS Integrated Circuits*, 2nd Edition  
 - IEEE papers on **g<sub>m</sub>/I<sub>d</sub> methodology**  
+
+
+![platypus](https://github.com/bdobyns/emojipacks/raw/animals/assets/platypus.png)
