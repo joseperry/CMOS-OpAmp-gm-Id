@@ -1,6 +1,6 @@
 # 📄 IEEE Papers  
 
-This section contains relevant IEEE papers on **two-stage CMOS operational amplifier design** using the **g<sub>m</sub>/I<sub>m</sub> methodology**. These papers provide insights into transistor sizing, power efficiency optimization, and performance analysis across different technology nodes.
+This section contains relevant IEEE papers on **two-stage CMOS operational amplifier design** using the **g<sub>m</sub>/I<sub>d</sub> methodology**. These papers provide insights into transistor sizing, power efficiency optimization, and performance analysis across different technology nodes.
 
 ---
 
@@ -12,19 +12,19 @@ This section contains relevant IEEE papers on **two-stage CMOS operational ampli
 📅 **Published**: [2023 IEEE 20th India Council International Conference (INDICON)](https://ieeexplore.ieee.org/xpl/conhome/10440722/proceedings)  
 🔗 **Link**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10440854)  
 📄 **Summary**:  
-- Presents a **design flow** for a **two-stage CMOS OpAmp** using the **g<sub>m</sub>/I<sub>m</sub> methodology**.  
+- Presents a **design flow** for a **two-stage CMOS OpAmp** using the **g<sub>m</sub>/I<sub>d</sub> methodology**.  
 - Optimizes **power consumption**, **gain**, and **phase margin**.  
 - **Technology node**: **180 nm CMOS**.  
 
 ---
 
-### **2️⃣ Design Procedure for Two-Stage CMOS OpAmp using g<sub>m</sub>/I<sub>m</sub> Methodology in 16 nm FinFET Technology**  
+### **2️⃣ Design Procedure for Two-Stage CMOS OpAmp using g<sub>m</sub>/I<sub>d</sub> Methodology in 16 nm FinFET Technology**  
 
 📌 **Authors**: [Bakr Hesham](https://ieeexplore.ieee.org/author/37086808523) [El-Sayed Hasaneen](https://ieeexplore.ieee.org/author/37402588300) [Hesham F. A. Hamed](https://ieeexplore.ieee.org/author/37340443100s)  
 📅 **Published**: [2019 31st International Conference on Microelectronics (ICM)](https://ieeexplore.ieee.org/xpl/conhome/9000745/proceeding)  
 🔗 **Link**: [IEEE Xplore](https://ieeexplore.ieee.org/document/9021511)  
 📄 **Summary**:  
-- Applies the **g<sub>m</sub>/I<sub>m</sub> methodology** to **FinFET-based** OpAmp design.  
+- Applies the **g<sub>m</sub>/I<sub>d</sub> methodology** to **FinFET-based** OpAmp design.  
 - Compares **FinFET vs. CMOS performance** at **16 nm technology**.  
 - Investigates **scaling effects** on OpAmp performance.  
 

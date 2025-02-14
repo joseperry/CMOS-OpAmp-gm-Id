@@ -16,7 +16,7 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 ## 🎯 Objectives  
 
 - **Design** a **two-stage CMOS OpAmp** with specific gain, bandwidth, and phase margin requirements.  
-- **Apply the g<sub>m</sub>/I<sub>m</sub> methodology** to optimize transistor sizing and power efficiency.  
+- **Apply the g<sub>m</sub>/I<sub>d</sub> methodology** to optimize transistor sizing and power efficiency.  
 - **Simulate the design** using **SPICE (LTspice, Cadence, or HSPICE)** and compare results with theoretical calculations.  
 - **Analyze key performance parameters**, including DC bias, AC response, transient behavior, and noise characteristics.  
 
