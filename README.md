@@ -13,7 +13,7 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 - President: [*to decide*](https://www.isel.pt/docentes/)  
 - Examiner: [*to decide*](https://www.isel.pt/docentes/)  
 - Advisor: [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)  
-<!-- TODO: add President and Examiner ISEL webpage -->
+<!-- TODO: add President and Examiner ISEL webpage, selected by Meneses -->
 
 ## 🎯 Objectives  
 
