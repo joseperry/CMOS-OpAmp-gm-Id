@@ -8,7 +8,7 @@ Operational amplifiers are a fundamental building block in analog circuit design
 
 The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**  
 
-## Jury  
+## 🎓 Jury  
 
 - President: [*to decide*](https://www.isel.pt/docentes/)  
 - Examiner: [*to decide*](https://www.isel.pt/docentes/)  
