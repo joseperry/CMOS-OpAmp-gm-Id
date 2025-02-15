@@ -37,6 +37,6 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 - B. Razavi, *Design of Analog CMOS Integrated Circuits*, 2nd Edition  
 - IEEE papers on **g<sub>m</sub>/I<sub>d</sub> methodology**  
 
-<p align="center">
+<p style="pointer-events: none; text-align: center;">
 	<img src="https://static.wikia.nocookie.net/phineasandferb/images/3/39/Agent_P.png/revision/latest?cb=20110803145338" alt="platypus" height="100">
 </p>
