@@ -1,6 +1,7 @@
 # 📄 References/Bibliography  
 
 This section contains all references materials used in this project  
+IEEE Papers are on a separeted [folder](./IEEE%20Docs/)
 
 ---
 
