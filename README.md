@@ -30,12 +30,16 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 - **Report & Documentation:** GitHub and Office  
 
 
-## 📄 References  
+## 📚 Bibliography  
 
-- A. S. Sedra, K. C. Smith, *Microelectronics Circuits*, 8th International Edition  
-- T. C. Carusone, D. Johns, K. Martin, *Analog Integrated Circuit Design*, 2nd Edition, Internacional Student Version  
-- B. Razavi, *Design of Analog CMOS Integrated Circuits*, 2nd Edition  
-- [IEEE papers](./Bibliography/IEEE%20Docs/) on **g<sub>m</sub>/I<sub>d</sub> methodology**  
+This project is based on various **textbooks** and **research papers** on CMOS OpAmp design.  
+
+For a complete list of references, visit the [Bibliography](./Bibliography/) section.  
+
+📖 **Books** → [See full list](./Bibliography/Books/)  
+📄 **Research Papers** → [General Papers](./Bibliography/Papers/) | [IEEE Papers](./Bibliography/IEEE%20Papers/)  
+
+---
 
 <p align="center">
 	<img src="https://static.wikia.nocookie.net/phineasandferb/images/3/39/Agent_P.png/revision/latest?cb=20110803145338" alt="platypus" height="100" style="pointer-events: none;">
