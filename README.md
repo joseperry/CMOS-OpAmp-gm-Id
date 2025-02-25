@@ -1,6 +1,6 @@
-# Two-Stage CMOS OpAmp Design with g<sub>m</sub>/I<sub>d</sub> methodology  
+# Two-Stage Operation Amplifier Design in CMOS Process Based on g<sub>m</sub>/I<sub>d</sub> methodology  
 
-This project is being<!--TODO: in the end replace with "was"--> developed in the context of the **Course Final Project** as part of the **Electronics, Telecommunications and Computer Engineering BSc** at **ISEL - Lisbon School of Engineering** during the Summer Semester of 24/25. The objective is to design and analyze a **two-stage CMOS operational amplifier (OpAmp)** using the **g<sub>m</sub>/I<sub>d</sub> methodology**, focusing on optimizing power efficiency while meeting performance specifications.  
+This project is being<!--TODO: in the end replace with "was"--> developed in the context of the **Course Final Project** as part of the **Electronics, Telecommunications and Computer Engineering BSc** at **ISEL - Lisbon School of Engineering** during the Summer Semester of 2024/25. The objective is to design and analyze a **two-stage CMOS operational amplifier (OpAmp)** using the **g<sub>m</sub>/I<sub>d</sub> methodology**, focusing on optimizing power efficiency while meeting performance specifications.  
 
 ## 📌 Overview  
 
