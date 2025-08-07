@@ -12,7 +12,7 @@ The process techonology used for this project is: **AMS 0.35&mu;m CMOS C35**
 
 - **President:** [*to decide*](https://www.isel.pt/docentes/)  
 - **Examiner:** [*to decide*](https://www.isel.pt/docentes/)  
-- **Advisor:** [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)  
+- **Supervisor:** [Vitor Costa](https://www.isel.pt/docentes/vitor-manuel-da-silva-costa)  
 <!-- TODO: add President and Examiner ISEL webpage, selected by Meneses -->
 
 ## 🎯 Objectives  
@@ -42,5 +42,6 @@ For a complete list of references, visit the [Bibliography](./Bibliography/) sec
 ---
 
 <p align="center">
-	<img src="https://static.wikia.nocookie.net/phineasandferb/images/3/39/Agent_P.png/revision/latest?cb=20110803145338" alt="platypus" height="100" style="pointer-events: none;">
+	<img src="https://static.wikia.nocookie.net/phineasandferb/images/3/39/Agent_P.png/revision/latest?cb=20110803145338" alt="platypus" height="100" style="pointer-events: none;"> <br>
+	<span>Platypus</span>
 </p>
